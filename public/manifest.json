@@ -1,0 +1,10 @@
+{
+  "name": "Movie Portal",
+  "short_name": "MoviePortal",
+  "description": "A modern movie portal with trending movies, favorites, and recommendations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}

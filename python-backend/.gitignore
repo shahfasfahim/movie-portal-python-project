@@ -1,0 +1,1 @@
+node_modules/\nDist/\ndist/\n.vscode/\n.env\n.env.local\n*.log\n*.sql\n*.sqlite3\n.DS_Store\n__pycache__/\n*.py[cod]\nvenv/\npython-backend/venv/\n*.swp\n
